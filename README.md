@@ -1,2 +1,2 @@
 # Git_GitHub
-Practice Repo for learning git
+Pracice repo for Git. This is the commit to check change in head
